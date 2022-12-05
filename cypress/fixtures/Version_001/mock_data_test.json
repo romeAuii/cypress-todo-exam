@@ -1,0 +1,35 @@
+{
+  "URL": {
+    "Test_URL": "https://abhigyank.github.io/To-Do-List/"
+  },
+
+  "Element": {
+    "Input_field": "#new-task",
+    "Add_btn": "#add-item > .mdl-button",
+    "ToDoTask_Tab": "[href='#todo'] > .mdl-tabs__ripple-container",
+    "Checkbox_1": ":nth-child(1) > .mdl-checkbox > .mdl-checkbox__ripple-container",
+    "Checkbox_2": ":nth-child(2) > .mdl-checkbox > .mdl-checkbox__ripple-container",
+    "Checkbox_3": ":nth-child(3) > .mdl-checkbox > .mdl-checkbox__ripple-container",
+    "Completed_Tab": "[href='#completed'] > .mdl-tabs__ripple-container",
+    "Completed_list": ".mdl-list__item-primary-content",
+    "Add_Tab": ".is-active > .mdl-tabs__ripple-container",
+    "Header_Page": "h1"
+  },
+
+  "Data_test": [
+    "Saving money",
+    "More exercise"
+  ],
+
+  "Data_tests_add": [
+  "10:00 : Wake up & Drink water",
+  "10:30 : Daily meeting",
+  "13:30 : Have lunch",
+  "14:30 : Working & attend some meeting",
+  "17:00 : Bubble tea time",
+  "19:00 : Dinner time",
+  "20:00 : Twitter ,IG or Series time",
+  "03:00 : Go to bed",
+  "04:00 : Dreaming &&!!&#@=+bm_-n  (*cbhsagch"
+]
+}
